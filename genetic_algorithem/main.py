@@ -1,11 +1,9 @@
-from grid import *
-from genetic_alg import *
+from genetic_algorithem.grid import *
+from genetic_algorithem.genetic_alg import *
 
 from tkinter import *
-import random
 import matplotlib.pyplot as plt
 import random
-import operator
 import numpy as np
 
 # set program parameters
